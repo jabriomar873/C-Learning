@@ -45,4 +45,3 @@ int main() {
     }
     return 0;
 }
->>>>>>> 19dfa31 (commit c1)
